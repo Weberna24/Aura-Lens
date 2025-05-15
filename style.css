@@ -494,7 +494,7 @@ body.active{
   }
 
   .menu-section{
-    padding: 0rem 4rem;
+    padding: 0rem 3rem;
     padding-bottom: 2rem;
     background-color: #EDECDF;
   }
@@ -1477,6 +1477,12 @@ body.active{
   }
 
   @media screen and (max-width: 840px) {
+
+      .menu-section{
+    padding: 0rem 1.2rem;
+    padding-bottom: 2rem;
+    background-color: #EDECDF;
+  }
 
     .service-list{
       border-right: none;
