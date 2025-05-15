@@ -19,7 +19,7 @@ body.active{
 .cover{
   width: 100%;
   height: 100vh;
-  background: url('/PhotoAd/images/pixel6.jpg');
+  background: url('images/pixel6.jpg');
   object-fit: cover;
   background-size: cover;
   background-position: center;
